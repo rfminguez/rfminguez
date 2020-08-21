@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is (going to be) my profile page.
+
 <!--
 **rfminguez/rfminguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
