@@ -11,7 +11,7 @@ Hi, I'm Raúl Fernández. Computer Engineer and Software Developer from Spain.
 ## Activity
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfminguez)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rfminguez&hide=["contribs","prs"])
+![My github stats](https://github-readme-stats.vercel.app/api?username=rfminguez&hide=["contribs","prs"])
 
 ## Projects
 <a href="https://github.com/rfminguez/homl">
