@@ -8,7 +8,7 @@ Hi, I'm Raúl Fernández. Computer Engineer and Software Developer from Spain.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfminguez)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfminguez)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rfminguez&hide=["contribs","prs"])
 
 <a href="https://github.com/rfminguez/homl">
