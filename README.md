@@ -1,7 +1,5 @@
 Hi, I'm Raúl Fernández. Computer Engineer and Software Developer from Spain. 
 
-[![Linkedin badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rfminguez/)
-
 :seedling: I'm currently learning Data Science, Data Analytics and Machine Learning.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfminguez)](https://github.com/rfminguez/github-readme-stats)
@@ -25,3 +23,7 @@ Hi, I'm Raúl Fernández. Computer Engineer and Software Developer from Spain.
 <a href="https://github.com/rfminguez/w3_storytelling">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rfminguez&repo=w3_storytelling" />
 </a>
+
+:mailbox: How to reach me:
+
+[![Linkedin badge](https://img.shields.mailboxio/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rfminguez/)
