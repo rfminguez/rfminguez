@@ -10,5 +10,8 @@ Hi, I'm Raúl Fernández. Computer Engineer and Software Developer from Spain.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfminguez&hide_border=true)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rfminguez&show_icons=true&hide_border=true)
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="rfminguez's Github Stats" src="https://github-readme-stats.rfminguez.vercel.app/api?username=rfminguez&show_icons=true&hide_border=true" />
+  <img align="left" alt="rfminguez's Most Used Langs" src="https://github-readme-stats.rfminguez.vercel.app/api/top-langs/?username=rfminguez&hide_border=true" />
+</details>
