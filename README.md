@@ -2,6 +2,8 @@ Hi, I'm Raúl Fernández. Computer Engineer and Software Developer from Spain.
 
 :seedling: I'm currently learning Data Science, Data Analytics and Machine Learning.
 
+---
+
 <details>
   <summary>:mailbox: How to reach me</summary>
 
